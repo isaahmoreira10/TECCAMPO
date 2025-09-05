@@ -16,7 +16,9 @@ export default function App (){
   );
 }
  
-Function Header ({ pagina, setPagina}){
+
+//comentario aleatorio
+function Header ({ pagina, setPagina}){
   return(
     <View style={styles.header}>
       <Text style={styles.headerTitle}>GAME TECH</Text>
